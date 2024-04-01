@@ -1,0 +1,1 @@
+{"version":3,"file":"logger.js","sourceRoot":"","sources":["../singleton/logger.ts"],"names":[],"mappings":";;;AAAA,MAAa,eAAe;IAGjB,MAAM,CAAC,WAAW;QACrB,IAAI,CAAC,eAAe,CAAC,QAAQ,EAAE,CAAC;YAC5B,eAAe,CAAC,QAAQ,GAAG,IAAI,eAAe,EAAE,CAAC;QACrD,CAAC;QAED,OAAO,eAAe,CAAC,QAAQ,CAAC;IACpC,CAAC;IAEM,UAAU,CAAC,OAAe;QAC7B,OAAO,uBAAuB,OAAO,EAAE,CAAC;IAC5C,CAAC;CACJ;AAdD,0CAcC"}

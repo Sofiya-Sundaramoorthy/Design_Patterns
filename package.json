@@ -1,0 +1,11 @@
+{
+  "name": "Design_Patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sofiya-Sundaramoorthy/Design_Patterns.git",
+  "author": "Sofiya Sundaramoorthy <sofiyanaidu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}

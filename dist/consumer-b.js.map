@@ -1,0 +1,1 @@
+{"version":3,"file":"consumer-b.js","sourceRoot":"","sources":["../singleton/consumer-b.ts"],"names":[],"mappings":";;;AAAA,qCAA2C;AAE3C,MAAa,SAAS;IAElB;QACI,MAAM,QAAQ,GAAG,wBAAe,CAAC,WAAW,EAAE,CAAC;QAC/C,MAAM,OAAO,GAAG,QAAQ,CAAC,UAAU,CAAC,YAAY,CAAC,CAAC;QAClD,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAA;IACxB,CAAC;CACJ;AAPD,8BAOC"}
